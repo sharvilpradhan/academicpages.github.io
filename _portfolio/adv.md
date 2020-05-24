@@ -27,3 +27,5 @@ Our method aims to identify words (mainly adjectives and verbs) from the origina
 
 ## Conclusion
 We were able to prove that our hypothesis holds true. The corpus on which word embedding algorithms are based require to have larger occurrences of rare words.
+
+[Source code](https://github.com/sharvilpradhan/adversarial-attack)
