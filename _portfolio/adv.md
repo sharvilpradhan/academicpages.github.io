@@ -24,6 +24,9 @@ Our method aims to identify words (mainly adjectives and verbs) from the origina
 
 ## Results
 
+<img src="/images/imdb.jpg">
+
+<img src="/images/zomato.jpg">
 
 ## Conclusion
 We were able to prove that our hypothesis holds true. The corpus on which word embedding algorithms are based require to have larger occurrences of rare words.
