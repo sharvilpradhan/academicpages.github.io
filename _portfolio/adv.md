@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 2"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
+title: "Adversarial Attack on Sentiment Analysis Models"
+excerpt: "Analyze the effect of introducing anomalies in the input to models on the sentiment classification performance of the models."
 collection: portfolio
 ---
 

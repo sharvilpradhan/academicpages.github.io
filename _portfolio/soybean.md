@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Leaf Wilting Identification in Soybean plants"
+excerpt: "Detecting early signs of disease in Soybean plants by analyzing leaf images and predicting extent of wilting"
 collection: portfolio
 ---
 
