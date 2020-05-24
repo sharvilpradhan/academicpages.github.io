@@ -19,3 +19,6 @@ I have implemented semi-supervised learning where I am using unlabelled data ini
 Transfer learning using a pre-trained VGG-16 model is carried out to classify the soybean images. 
 
 This was a competition project in association with the Agricultural Department at NC State University. Our group had the best classification accuracy of 82%
+
+
+[Source code](https://github.com/sharvilpradhan/leaf-wilting-identification)
