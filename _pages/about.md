@@ -12,7 +12,7 @@ Welcome to my page! I am a graduate student pursuing Masters in Computer Science
 
 I am interested in opportunities that involve the entire data science project iterative life cycle, from data collection to model deployment. My skills and area of expertise lie in leveraging data to gain useful insights, which may be instrumental in expanding business, maximizing profits, reducing costs or benefiting the society. I have experience working with healthcare or/and medical data and social media data (comments, posts) to name a few. 
 
-Check out my Projects page for more details.
+Check out my [Projects](/projects/) page for more details.
 
 Feel free to contact me via email or connect with me on LinkedIn.
 
