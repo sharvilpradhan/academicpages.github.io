@@ -4,7 +4,10 @@ excerpt: "Classifying and scoring the comments based on how persuasive they are 
 collection: portfolio
 ---
 
-# Description
+
+
+
+## Description
 This project aims to develop an automated system that parses through threads on Reddit Change My View (CMV) discussions and gives points to comments that contribute logically to the discussion.
 
 ## Motivation
