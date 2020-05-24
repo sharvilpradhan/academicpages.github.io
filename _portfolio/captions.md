@@ -13,7 +13,7 @@ The project aims at developing a model that can perform multiple tasks. The firs
 The hypothesis was that once the model has generated caption for an image, it knows what text is associated with it. This means that if we now enter a similar text then by a keyword search the model should be able to retrieve that image or other images matching the description.
 
 ## Results
-
+<img src="/images/captions.png">
 
 
 ## Advantage
