@@ -19,3 +19,5 @@ The hypothesis was that once the model has generated caption for an image, it kn
 ## Advantage
 This eliminates the need of different models to perform caption generation and image search tasks. Both these tasks can be done using the same neural network architecture.
 
+
+[Source code](https://github.com/sharvilpradhan/image-caption-generation)
