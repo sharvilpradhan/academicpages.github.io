@@ -4,4 +4,12 @@ excerpt: "Developing algorithms to find motifs (patterns) in sequences of DNA"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+
+
+## Description
+
+Motif is a short region or subsequence of DNA or protein sequence that has a specific structure
+and act as a candidate for functionally important sites.These motifs are useful for finding
+Transcription Factor Binding Sites that are crucial for understanding the Genetic Regulatory
+System. 
+Heuristic algorithms have been implemented to find motifs while maximizing 3 objectives - motif length, motif similarity (consensus score) and surprise factor.
