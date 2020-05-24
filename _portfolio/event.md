@@ -19,3 +19,6 @@ Achieving this task can be useful to create chatbots that can understand link be
 
 ## Advantage
 I have used a variation of doc2vec technique to create word embedding techniques which takes into consideration the occurrence of the pair of sentences in the entire document under consideration. The traditional word2vec and SpaCy word embedding techniques consider the pair of sentences as stand-alone. So, using the inverse document frequency, I am able to associate words closer to one another while also discarding stop words or words that are extremely common and not associated to the particular sentence.
+
+
+[Source code](https://github.com/sharvilpradhan/event-timeline-detection)
