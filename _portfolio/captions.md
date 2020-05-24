@@ -4,4 +4,18 @@ excerpt: "Generating textual captions for a given image by building an LSTM mode
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+
+
+## Description
+The project aims at developing a model that can perform multiple tasks. The first task being generating textual captions for a given image. The second task being image search for a given keyword/keywords.
+
+## Motivation
+The hypothesis was that once the model has generated caption for an image, it knows what text is associated with it. This means that if we now enter a similar text then by a keyword search the model should be able to retrieve that image or other images matching the description.
+
+## Results
+
+
+
+## Advantage
+This eliminates the need of different models to perform caption generation and image search tasks. Both these tasks can be done using the same neural network architecture.
+
