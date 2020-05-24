@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Sharvil Pradhan"
-  avatar           : "profile.png"
+  avatar           : "foo-bar-identity.jpg"
   bio              : "Data Scientist | Machine Learning Engineer (NLP) | Graduate Student (Masters in Computer Science) "
   location         : "Raleigh, NC"
   employer         : "North Carolina State University"
